@@ -6,7 +6,7 @@
 
 
 ## Description
-Created a simple for Form where we can enter user details once submitted the form The value must be shown in a Table 
+Created a simple Form where we can enter user details once submitted the form The value must be shown in a Table 
 ## Tech Stack
 
 **Client:** HTML, CSS, Bootstrap, Javascript
