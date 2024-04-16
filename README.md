@@ -16,5 +16,7 @@ Created a simple Form where we can enter user details once submitted the form Th
 
 ## Demo
 
+https://personaldetails.vercel.app/
+
 
 
